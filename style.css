@@ -1,0 +1,19 @@
+/*
+    QUIÑONES TRAUMA EMULATOR
+    Home Page (style.css)
+
+    Date: 28/2/23
+*/
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fff;
+}
+body {
+    background-image: url(homePageAssets/apple1.gif);
+    background-repeat: repeat;
+}
+.main {
+    height: 85%;
+    width: 100%;
+    padding-top: 50px;
+}
